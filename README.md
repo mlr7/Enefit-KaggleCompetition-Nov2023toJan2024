@@ -3,7 +3,11 @@ Repository aggregating code and materials related to the Kaggle Competition "Ene
 
 https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers/overview
 
+The front page of the competition from teh Kaggle site.
+
 ![](img/enefit_page1.png)
+
+We can filter the data and generate a coherent time series view for a subsequence of target values.
 
 ![](img/enefit_cycle_produce.png)
 
